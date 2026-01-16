@@ -2,6 +2,15 @@
 Experiment–1
 Title
 Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
+
+
+Name : Aanjneya Pankharaj
+
+
+PRN : 25070123002
+
+
+batch : Entc 2025-29
 ________________________________________
 Aim
 To learn the fundamentals of the Python programming language, understand how the Python execution environment works, install Python and Jupyter Notebook using the Anaconda distribution, and explore different Python development environments, including Google Colab.
